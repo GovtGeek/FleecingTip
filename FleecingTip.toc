@@ -1,6 +1,7 @@
-## Interface: 11303
-## Version: 113.1770(200720)
-## Author: bazelle
+## Interface: 11506
+## Version: 1.00.1
+## Author: GovtGeek
+## X-Authors: bazelle
 ## X-Website: 
 ## Title: FleecingTip |cffa330c9(Classic Edition)|r
 ## Notes: Tooltip information on where an item that could instead be obtained/bought from a vendor, quest or a drop.  Baa!...Stop being fleeced!
